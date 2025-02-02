@@ -19,7 +19,6 @@ An online marketplace application with seller accounts, product search and sugge
 4. Open command line in the cloned folder,
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
-5. Open [localhost:3000](http://localhost:3000/) in the browser
 ---- 
 ### More applications built using this stack
 
