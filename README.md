@@ -29,7 +29,6 @@ An online marketplace application with seller accounts, product search and sugge
 * [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
 * [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
 
-Learn more at [mernbook.com](http://www.mernbook.com/)
 
 
 <a href="https://www.packtpub.com/web-development/full-stack-react-projects-second-edition"><img src="https://mernbook.s3.amazonaws.com/git+/Book_2Ed.jpg" align="center" width="400" alt="Full-Stack React Projects"></a>
